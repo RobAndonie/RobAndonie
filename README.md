@@ -1,6 +1,6 @@
 <h1>Hi! I'm Roberto :grin:</h1>
 <p>
-  I'm a <b>Computer Science</b> student at 🇲🇽 Tec de Monterrey. I consider myself to be really passionate about Software Development and about everything that can be achieved with it. I'm always looking for opportunities to expand my knowledge and skillset.</br></br>Welcome to my profile! :smile:   
+  I'm a <b>Computer Science</b> student at 🇲🇽 Tec de Monterrey. I consider myself to be really passionate about Software Development and everything that can be achieved with it. I'm always looking for opportunities to expand my knowledge and skillset.</br></br>Welcome to my profile! :smile:   
 </p>
 
 <p>
